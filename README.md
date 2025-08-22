@@ -1,1 +1,4 @@
-# -pneumonia-diagnosis-app
+streamlit
+tensorflow
+numpy
+Pillow
